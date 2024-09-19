@@ -5,6 +5,8 @@
 ![2D Graphics](https://img.shields.io/badge/graphics-2D%20Rendering-orange)
 ![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20MacOS-lightgrey)
 ![42](https://img.shields.io/badge/school-42-green)
+![42 Paris](https://img.shields.io/badge/42-Paris-blue)
+
 
 
 # Description
