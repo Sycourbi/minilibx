@@ -1,5 +1,12 @@
 # MiniLibX
 
+![MiniLibX](https://img.shields.io/badge/graphics-MiniLibX-yellow)
+![C Language](https://img.shields.io/badge/language-C-blue)
+![2D Graphics](https://img.shields.io/badge/graphics-2D%20Rendering-orange)
+![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20MacOS-lightgrey)
+![42](https://img.shields.io/badge/school-42-green)
+
+
 # Description
 MiniLibX est une bibliothèque graphique légère conçue pour les environnements UNIX-like. Elle est utilisée principalement pour la création d'applications graphiques simples et de jeux 2D. MiniLibX facilite la gestion des fenêtres, des images, et des événements utilisateur, et est souvent utilisée dans des projets de programmation académique ou personnelle.
 
